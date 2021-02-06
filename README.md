@@ -8,9 +8,10 @@ Recommender systems have become increasingly popular in recent years, and are 
 
                               What are the different types of recommendations
 There are basically three important types of recommendation engines:
-    • Collaborative filtering
-    • Content-Based Filtering
-    • Hybrid Recommendation Systems
+    
+    * Collaborative filtering
+    *Content-Based Filtering
+    *Hybrid Recommendation Systems
     
                                            Collaborative filtering:
 
@@ -30,8 +31,4 @@ Recent research shows that combining collaborative and content-based recommendat
 Several studies focused on comparing the performance of the hybrid with the pure collaborative and content-based methods and demonstrate that hybrid methods can provide more accurate recommendations than pure approaches. 
 Netflix is a good example of the use of hybrid recommender systems. The website makes recommendations by comparing the watching and searching habits of similar users (i.e., collaborative filtering) as well as by offering movies that share characteristics with films that a user has rated highly (content-based filtering).
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
